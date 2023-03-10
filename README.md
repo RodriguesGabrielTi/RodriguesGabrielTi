@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there+I'm+Gabriel;Back-End+Developer;Freelancer;+AI+enthusiast;Computer+Science+Student" alt="Typing SVG" />
+         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there+I'm+Gabriel;Back-End+Developer;+AI+enthusiast;Computer+Science+Student" alt="Typing SVG" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/gabriel-rodrigues-28a06318a/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
