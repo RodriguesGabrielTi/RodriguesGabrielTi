@@ -5,7 +5,6 @@
     <div align=center>
         <a href="https://www.linkedin.com/in/gabriel-rodrigues-28a06318a/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://stackoverflow.com/users/16130054/gabriel-mouta"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://instagram.com/gabriel_mouta?igshid=ZDdkNTZiNTM="><img src="	https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
     </div>
     <div align=left>
         <br>
