@@ -10,7 +10,7 @@
         <br>
         <p>
             <strong>
-                Computer Science Student, Back-End Engineer, Problem Solver, and AI Enthusiast.<br><br>
+                Computer Science Student, Back-End Engineer and AI Enthusiast.<br><br>
                 I specialize in python to web(django-rest-framework, flask) and I have experience working with Node(nestjs). Good in Data Structures, Database Systems, Object-Oriented Programming, and Problem Solving skills.<br><br>
                 I am like to study about learning all Back-End Technologies, AI, Virtualization, Cloud Computing, and DevOps.<br><br>
             </strong>
